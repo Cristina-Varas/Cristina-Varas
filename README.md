@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cristina-Varas
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning and working on Data Science
+- 🌱 I’m currently learning and working as Data Developer Specialist in APEX at Oracle
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cristina.varas98@gmail.com
 <!---
